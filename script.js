@@ -157,6 +157,22 @@
 // // let firstName = "Mario";
 // // let hello = "Ciao" + " " + firstName;
 
+let topolino = 5;
+
+topolino = topolino + 10;
+
+topolino += 10; //equivale a topolino = topolino + 10
+
+topolino = topolino +1;
+
+topolino +=1; 
+
+topolino ++; //equivale a topolino = topolino + 1
+
+
+
+
+
 // // //Differenza VAR e LET
 
 
